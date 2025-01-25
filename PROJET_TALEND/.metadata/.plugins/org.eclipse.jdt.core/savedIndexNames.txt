@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\Youcode\Desktop\projet_2025\workspace\newandnew\.metadata\.plugins\org.eclipse.jdt.core
+3457203995.index
+2955882847.index
+1526940547.index
+3841485065.index
+2396048057.index
+3798778258.index
+2375807237.index
+816996193.index
+2470397351.index
+4235063316.index
+39616736.index

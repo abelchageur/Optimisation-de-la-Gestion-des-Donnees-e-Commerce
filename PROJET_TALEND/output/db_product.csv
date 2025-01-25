@@ -1,0 +1,274 @@
+597;1;Nathaniel;Electronics;Camera;0.01;25-01-2025;;1
+63;2;NonExistentProduct;Electronics;Mobile;847.43;25-01-2025;;1
+105;3;Angela;InvalidCategory;Action Figures;386.57;25-01-2025;;1
+966;4;Amy;Home & Garden;Decor;364.01;25-01-2025;;1
+597;5;Nathaniel;Electronics;Camera;652.35;25-01-2025;;1
+360;7;Justin;Electronics;Headphones;66005.0;25-01-2025;;1
+63;8;NonExistentProduct;Electronics;Camera;652.35;25-01-2025;;1
+294;9;Shannon;Home & Garden;Gardening Tools;68.01;25-01-2025;;1
+63;10;NonExistentProduct;Home & Garden;Decor;364.01;25-01-2025;;1
+162;11;Martha;Books;Fiction;43310.0;25-01-2025;;1
+360;12;Justin;Electronics;Headphones;660.05;25-01-2025;;1
+25;13;Elizabeth;InvalidCategory;Shirt;840.19;25-01-2025;;1
+387;14;Jamie;Books;Fiction;930.3;25-01-2025;;1
+63;15;NonExistentProduct;Books;Fiction;99999.99;25-01-2025;;1
+855;17;Robert;Electronics;Mobile;847.43;25-01-2025;;1
+524;18;Shawn;Electronics;Headphones;46109.0;25-01-2025;;1
+634;19;Anthony;Books;Academic;693.39;25-01-2025;;1
+955;21;Pamela;Electronics;Headphones;651.11;25-01-2025;;1
+25;22;Elizabeth;Clothing;Shirt;840.19;25-01-2025;;1
+156;23;Fred;InvalidCategory;Academic;99999.99;25-01-2025;;1
+63;24;NonExistentProduct;Home & Garden;Decor;InvalidPrice;25-01-2025;;1
+962;25;Wanda;Toys;Educational;268.61;25-01-2025;;1
+966;26;Amy;Home & Garden;Decor;99999.99;25-01-2025;;1
+105;28;Angela;Toys;Action Figures;386.57;25-01-2025;;1
+63;29;NonExistentProduct;Books;Academic;951.53;25-01-2025;;1
+181;30;Cynthia;Electronics;Headphones;872.85;25-01-2025;;1
+524;31;Shawn;Electronics;Headphones;461.09;25-01-2025;;1
+196;32;Marvin;Clothing;Shirt;0.01;25-01-2025;;1
+635;33;Katie;Books;Non-fiction;642.11;25-01-2025;;1
+966;34;Amy;Home & Garden;Decor;InvalidPrice;25-01-2025;;1
+162;35;Martha;InvalidCategory;Fiction;433.1;25-01-2025;;1
+63;36;NonExistentProduct;Books;Fiction;433.1;25-01-2025;;1
+955;37;Pamela;Electronics;Headphones;65111.0;25-01-2025;;1
+597;38;Nathaniel;Electronics;Camera;65235.0;25-01-2025;;1
+63;41;NonExistentProduct;InvalidCategory;Dolls;46.23;25-01-2025;;1
+741;42;Tammy;InvalidCategory;Furniture;99999.99;25-01-2025;;1
+597;44;Nathaniel;Electronics;Camera;99999.99;25-01-2025;;1
+966;49;Amy;Home & Garden;Decor;0.01;25-01-2025;;1
+196;51;Marvin;Clothing;Shirt;995.13;25-01-2025;;1
+442;52;Michael;InvalidCategory;Dolls;InvalidPrice;25-01-2025;;1
+63;53;NonExistentProduct;Clothing;Shirt;995.13;25-01-2025;;1
+294;55;Shannon;Home & Garden;Gardening Tools;InvalidPrice;25-01-2025;;1
+741;56;Tammy;Home & Garden;Furniture;431.82;25-01-2025;;1
+580;57;Kristine;Electronics;Headphones;228.82;25-01-2025;;1
+855;58;Robert;Electronics;Mobile;84743.0;25-01-2025;;1
+63;64;NonExistentProduct;Books;Non-fiction;642.11;25-01-2025;;1
+524;65;Shawn;InvalidCategory;Headphones;461.09;25-01-2025;;1
+387;67;Jamie;InvalidCategory;Fiction;930.3;25-01-2025;;1
+442;68;Michael;Toys;Dolls;InvalidPrice;25-01-2025;;1
+156;71;Fred;Books;Academic;99999.99;25-01-2025;;1
+597;72;Nathaniel;InvalidCategory;Camera;652.35;25-01-2025;;1
+442;74;Michael;InvalidCategory;Dolls;46.23;25-01-2025;;1
+955;75;Pamela;InvalidCategory;Headphones;651.11;25-01-2025;;1
+580;76;Kristine;Electronics;Headphones;22882.0;25-01-2025;;1
+63;82;NonExistentProduct;Books;Non-fiction;64211.0;25-01-2025;;1
+442;83;Michael;Toys;Dolls;46.23;25-01-2025;;1
+162;84;Martha;Books;Fiction;433.1;25-01-2025;;1
+63;88;NonExistentProduct;Books;Academic;693.39;25-01-2025;;1
+196;96;Marvin;Clothing;Shirt;99513.0;25-01-2025;;1
+156;98;Fred;Books;Academic;951.53;25-01-2025;;1
+156;99;Fred;InvalidCategory;Academic;951.53;25-01-2025;;1
+387;100;Jamie;Books;Fiction;93030.0;25-01-2025;;1
+294;103;Shannon;InvalidCategory;Gardening Tools;68.01;25-01-2025;;1
+181;105;Cynthia;Electronics;Headphones;InvalidPrice;25-01-2025;;1
+196;106;Marvin;Clothing;Shirt;99999.99;25-01-2025;;1
+181;107;Cynthia;InvalidCategory;Headphones;InvalidPrice;25-01-2025;;1
+741;111;Tammy;Home & Garden;Furniture;43182.0;25-01-2025;;1
+63;119;NonExistentProduct;Electronics;Headphones;660.05;25-01-2025;;1
+855;123;Robert;Electronics;Mobile;InvalidPrice;25-01-2025;;1
+387;124;Jamie;InvalidCategory;Fiction;93030.0;25-01-2025;;1
+63;125;NonExistentProduct;Electronics;Headphones;872.85;25-01-2025;;1
+63;126;NonExistentProduct;Toys;Dolls;46.23;25-01-2025;;1
+162;128;Martha;Books;Fiction;0.01;25-01-2025;;1
+962;137;Wanda;InvalidCategory;Educational;99999.99;25-01-2025;;1
+634;140;Anthony;InvalidCategory;Academic;693.39;25-01-2025;;1
+181;142;Cynthia;Electronics;Headphones;99999.99;25-01-2025;;1
+360;149;Justin;Electronics;Headphones;InvalidPrice;25-01-2025;;1
+580;155;Kristine;Electronics;Headphones;InvalidPrice;25-01-2025;;1
+360;159;Justin;Electronics;Headphones;0.01;25-01-2025;;1
+635;160;Katie;Books;Non-fiction;64211.0;25-01-2025;;1
+63;161;NonExistentProduct;Toys;Educational;268.61;25-01-2025;;1
+966;165;Amy;InvalidCategory;Decor;364.01;25-01-2025;;1
+181;166;Cynthia;Electronics;Headphones;87285.0;25-01-2025;;1
+294;167;Shannon;Home & Garden;Gardening Tools;99999.99;25-01-2025;;1
+634;174;Anthony;Books;Academic;69339.0;25-01-2025;;1
+63;185;NonExistentProduct;Electronics;Headphones;651.11;25-01-2025;;1
+360;188;Justin;InvalidCategory;Headphones;660.05;25-01-2025;;1
+855;189;Robert;Electronics;Mobile;0.01;25-01-2025;;1
+105;197;Angela;Toys;Action Figures;InvalidPrice;25-01-2025;;1
+955;198;Pamela;Electronics;Headphones;InvalidPrice;25-01-2025;;1
+63;206;NonExistentProduct;Home & Garden;Furniture;431.82;25-01-2025;;1
+181;213;Cynthia;Electronics;Headphones;0.01;25-01-2025;;1
+635;217;Katie;Books;Non-fiction;InvalidPrice;25-01-2025;;1
+966;218;Amy;Home & Garden;Decor;36401.0;25-01-2025;;1
+360;220;Justin;InvalidCategory;Headphones;InvalidPrice;25-01-2025;;1
+855;223;Robert;InvalidCategory;Mobile;84743.0;25-01-2025;;1
+635;233;Katie;InvalidCategory;Non-fiction;642.11;25-01-2025;;1
+634;235;Anthony;Books;Academic;InvalidPrice;25-01-2025;;1
+25;236;Elizabeth;Clothing;Shirt;InvalidPrice;25-01-2025;;1
+105;248;Angela;InvalidCategory;Action Figures;InvalidPrice;25-01-2025;;1
+855;250;Robert;InvalidCategory;Mobile;847.43;25-01-2025;;1
+162;263;Martha;Books;Fiction;InvalidPrice;25-01-2025;;1
+156;270;Fred;Books;Academic;InvalidPrice;25-01-2025;;1
+156;271;Fred;InvalidCategory;Academic;InvalidPrice;25-01-2025;;1
+181;273;Cynthia;InvalidCategory;Headphones;872.85;25-01-2025;;1
+635;275;Katie;InvalidCategory;Non-fiction;99999.99;25-01-2025;;1
+580;278;Kristine;Electronics;Headphones;0.01;25-01-2025;;1
+597;280;Nathaniel;InvalidCategory;Camera;0.01;25-01-2025;;1
+63;281;NonExistentProduct;Clothing;Shirt;0.01;25-01-2025;;1
+634;285;Anthony;Books;Academic;0.01;25-01-2025;;1
+387;287;Jamie;Books;Fiction;0.01;25-01-2025;;1
+634;303;Anthony;Books;Academic;99999.99;25-01-2025;;1
+962;305;Wanda;Toys;Educational;26861.0;25-01-2025;;1
+63;308;NonExistentProduct;Books;Fiction;930.3;25-01-2025;;1
+955;310;Pamela;Electronics;Headphones;0.01;25-01-2025;;1
+635;317;Katie;Books;Non-fiction;99999.99;25-01-2025;;1
+63;318;NonExistentProduct;Electronics;Headphones;0.01;25-01-2025;;1
+196;321;Marvin;InvalidCategory;Shirt;995.13;25-01-2025;;1
+63;322;NonExistentProduct;Home & Garden;Gardening Tools;68.01;25-01-2025;;1
+25;327;Elizabeth;Clothing;Shirt;84019.0;25-01-2025;;1
+387;331;Jamie;Books;Fiction;InvalidPrice;25-01-2025;;1
+741;332;Tammy;InvalidCategory;Furniture;431.82;25-01-2025;;1
+597;337;Nathaniel;Electronics;Camera;InvalidPrice;25-01-2025;;1
+63;339;NonExistentProduct;Electronics;Headphones;InvalidPrice;25-01-2025;;1
+105;340;Angela;Toys;Action Figures;0.01;25-01-2025;;1
+105;349;Angela;Toys;Action Figures;38657.0;25-01-2025;;1
+63;350;NonExistentProduct;Electronics;Headphones;99999.99;25-01-2025;;1
+294;357;Shannon;Home & Garden;Gardening Tools;0.01;25-01-2025;;1
+63;361;NonExistentProduct;Toys;Action Figures;386.57;25-01-2025;;1
+63;364;NonExistentProduct;Electronics;Headphones;228.82;25-01-2025;;1
+524;373;Shawn;Electronics;Headphones;0.01;25-01-2025;;1
+962;384;Wanda;InvalidCategory;Educational;268.61;25-01-2025;;1
+962;401;Wanda;Toys;Educational;99999.99;25-01-2025;;1
+741;422;Tammy;Home & Garden;Furniture;0.01;25-01-2025;;1
+63;428;NonExistentProduct;Electronics;Headphones;461.09;25-01-2025;;1
+196;440;Marvin;Clothing;Shirt;InvalidPrice;25-01-2025;;1
+294;441;Shannon;InvalidCategory;Gardening Tools;InvalidPrice;25-01-2025;;1
+962;443;Wanda;Toys;Educational;0.01;25-01-2025;;1
+196;458;Marvin;InvalidCategory;Shirt;99513.0;25-01-2025;;1
+962;462;Wanda;InvalidCategory;Educational;InvalidPrice;25-01-2025;;1
+25;470;Elizabeth;InvalidCategory;Shirt;0.01;25-01-2025;;1
+63;488;NonExistentProduct;InvalidCategory;Non-fiction;642.11;25-01-2025;;1
+294;497;Shannon;Home & Garden;Gardening Tools;6801.000000000001;25-01-2025;;1
+741;502;Tammy;Home & Garden;Furniture;99999.99;25-01-2025;;1
+962;509;Wanda;Toys;Educational;InvalidPrice;25-01-2025;;1
+63;533;NonExistentProduct;Electronics;Headphones;66005.0;25-01-2025;;1
+162;546;Martha;Books;Fiction;99999.99;25-01-2025;;1
+635;550;Katie;InvalidCategory;Non-fiction;64211.0;25-01-2025;;1
+966;572;Amy;InvalidCategory;Decor;InvalidPrice;25-01-2025;;1
+635;575;Katie;Books;Non-fiction;0.01;25-01-2025;;1
+63;577;NonExistentProduct;InvalidCategory;Academic;InvalidPrice;25-01-2025;;1
+162;581;Martha;InvalidCategory;Fiction;InvalidPrice;25-01-2025;;1
+524;582;Shawn;Electronics;Headphones;InvalidPrice;25-01-2025;;1
+63;591;NonExistentProduct;Electronics;Mobile;84743.0;25-01-2025;;1
+63;602;NonExistentProduct;Electronics;Mobile;0.01;25-01-2025;;1
+63;609;NonExistentProduct;Home & Garden;Gardening Tools;0.01;25-01-2025;;1
+741;618;Tammy;InvalidCategory;Furniture;InvalidPrice;25-01-2025;;1
+63;623;NonExistentProduct;InvalidCategory;Fiction;433.1;25-01-2025;;1
+442;626;Michael;Toys;Dolls;99999.99;25-01-2025;;1
+442;640;Michael;Toys;Dolls;0.01;25-01-2025;;1
+580;646;Kristine;InvalidCategory;Headphones;228.82;25-01-2025;;1
+25;655;Elizabeth;Clothing;Shirt;0.01;25-01-2025;;1
+63;662;NonExistentProduct;InvalidCategory;Decor;364.01;25-01-2025;;1
+855;674;Robert;Electronics;Mobile;99999.99;25-01-2025;;1
+105;676;Angela;Toys;Action Figures;99999.99;25-01-2025;;1
+442;698;Michael;Toys;Dolls;4623.0;25-01-2025;;1
+524;703;Shawn;Electronics;Headphones;99999.99;25-01-2025;;1
+63;705;NonExistentProduct;Books;Academic;69339.0;25-01-2025;;1
+63;706;NonExistentProduct;InvalidCategory;Academic;951.53;25-01-2025;;1
+63;720;NonExistentProduct;Home & Garden;Furniture;0.01;25-01-2025;;1
+181;722;Cynthia;InvalidCategory;Headphones;0.01;25-01-2025;;1
+442;779;Michael;InvalidCategory;Dolls;99999.99;25-01-2025;;1
+360;783;Justin;Electronics;Headphones;99999.99;25-01-2025;;1
+156;785;Fred;Books;Academic;0.01;25-01-2025;;1
+635;789;Katie;InvalidCategory;Non-fiction;0.01;25-01-2025;;1
+580;820;Kristine;Electronics;Headphones;99999.99;25-01-2025;;1
+634;822;Anthony;InvalidCategory;Academic;69339.0;25-01-2025;;1
+63;841;NonExistentProduct;Books;Academic;0.01;25-01-2025;;1
+63;875;NonExistentProduct;Books;Non-fiction;0.01;25-01-2025;;1
+181;879;Cynthia;InvalidCategory;Headphones;99999.99;25-01-2025;;1
+156;890;Fred;Books;Academic;95153.0;25-01-2025;;1
+63;899;NonExistentProduct;Books;Fiction;93030.0;25-01-2025;;1
+855;924;Robert;InvalidCategory;Mobile;0.01;25-01-2025;;1
+63;945;NonExistentProduct;InvalidCategory;Educational;26861.0;25-01-2025;;1
+25;950;Elizabeth;Clothing;Shirt;99999.99;25-01-2025;;1
+63;972;NonExistentProduct;Electronics;Camera;InvalidPrice;25-01-2025;;1
+63;998;NonExistentProduct;Clothing;Shirt;840.19;25-01-2025;;1
+105;1063;Angela;InvalidCategory;Action Figures;38657.0;25-01-2025;;1
+387;1094;Jamie;InvalidCategory;Fiction;0.01;25-01-2025;;1
+955;1109;Pamela;Electronics;Headphones;99999.99;25-01-2025;;1
+855;1148;Robert;InvalidCategory;Mobile;InvalidPrice;25-01-2025;;1
+63;1217;NonExistentProduct;Books;Academic;95153.0;25-01-2025;;1
+63;1219;NonExistentProduct;InvalidCategory;Shirt;84019.0;25-01-2025;;1
+955;1265;Pamela;InvalidCategory;Headphones;0.01;25-01-2025;;1
+524;1267;Shawn;InvalidCategory;Headphones;InvalidPrice;25-01-2025;;1
+741;1292;Tammy;Home & Garden;Furniture;InvalidPrice;25-01-2025;;1
+442;1397;Michael;InvalidCategory;Dolls;4623.0;25-01-2025;;1
+196;1479;Marvin;InvalidCategory;Shirt;99999.99;25-01-2025;;1
+63;1482;NonExistentProduct;InvalidCategory;Shirt;840.19;25-01-2025;;1
+63;1493;NonExistentProduct;InvalidCategory;Dolls;99999.99;25-01-2025;;1
+63;1507;NonExistentProduct;Home & Garden;Furniture;43182.0;25-01-2025;;1
+181;1529;Cynthia;InvalidCategory;Headphones;87285.0;25-01-2025;;1
+63;1569;NonExistentProduct;InvalidCategory;Headphones;651.11;25-01-2025;;1
+597;1576;Nathaniel;InvalidCategory;Camera;InvalidPrice;25-01-2025;;1
+63;1596;NonExistentProduct;InvalidCategory;Non-fiction;99999.99;25-01-2025;;1
+63;1629;NonExistentProduct;Toys;Dolls;99999.99;25-01-2025;;1
+63;1661;NonExistentProduct;InvalidCategory;Mobile;847.43;25-01-2025;;1
+63;1700;NonExistentProduct;Toys;Dolls;0.01;25-01-2025;;1
+387;1704;Jamie;Books;Fiction;99999.99;25-01-2025;;1
+966;1736;Amy;InvalidCategory;Decor;36401.0;25-01-2025;;1
+955;1742;Pamela;InvalidCategory;Headphones;65111.0;25-01-2025;;1
+63;1747;NonExistentProduct;InvalidCategory;Camera;InvalidPrice;25-01-2025;;1
+63;1775;NonExistentProduct;Toys;Educational;0.01;25-01-2025;;1
+63;1857;NonExistentProduct;Electronics;Headphones;65111.0;25-01-2025;;1
+63;1878;NonExistentProduct;InvalidCategory;Fiction;930.3;25-01-2025;;1
+105;1956;Angela;InvalidCategory;Action Figures;0.01;25-01-2025;;1
+387;1981;Jamie;InvalidCategory;Fiction;InvalidPrice;25-01-2025;;1
+955;2043;Pamela;InvalidCategory;Headphones;InvalidPrice;25-01-2025;;1
+196;2044;Marvin;InvalidCategory;Shirt;InvalidPrice;25-01-2025;;1
+580;2162;Kristine;InvalidCategory;Headphones;InvalidPrice;25-01-2025;;1
+63;2187;NonExistentProduct;InvalidCategory;Headphones;461.09;25-01-2025;;1
+962;2197;Wanda;InvalidCategory;Educational;0.01;25-01-2025;;1
+63;2208;NonExistentProduct;Books;Fiction;InvalidPrice;25-01-2025;;1
+63;2237;NonExistentProduct;InvalidCategory;Headphones;46109.0;25-01-2025;;1
+63;2241;NonExistentProduct;Toys;Dolls;InvalidPrice;25-01-2025;;1
+63;2277;NonExistentProduct;Books;Non-fiction;99999.99;25-01-2025;;1
+63;2313;NonExistentProduct;InvalidCategory;Gardening Tools;68.01;25-01-2025;;1
+63;2396;NonExistentProduct;InvalidCategory;Camera;652.35;25-01-2025;;1
+63;2448;NonExistentProduct;Toys;Educational;26861.0;25-01-2025;;1
+966;2454;Amy;InvalidCategory;Decor;0.01;25-01-2025;;1
+524;2456;Shawn;InvalidCategory;Headphones;99999.99;25-01-2025;;1
+63;2614;NonExistentProduct;InvalidCategory;Academic;95153.0;25-01-2025;;1
+25;2621;Elizabeth;InvalidCategory;Shirt;84019.0;25-01-2025;;1
+63;2636;NonExistentProduct;Books;Fiction;43310.0;25-01-2025;;1
+196;2644;Marvin;InvalidCategory;Shirt;0.01;25-01-2025;;1
+63;2673;NonExistentProduct;Toys;Dolls;4623.0;25-01-2025;;1
+63;2721;NonExistentProduct;Books;Academic;99999.99;25-01-2025;;1
+634;2793;Anthony;InvalidCategory;Academic;InvalidPrice;25-01-2025;;1
+63;2835;NonExistentProduct;Home & Garden;Gardening Tools;6801.000000000001;25-01-2025;;1
+63;2906;NonExistentProduct;InvalidCategory;Fiction;99999.99;25-01-2025;;1
+162;2977;Martha;InvalidCategory;Fiction;43310.0;25-01-2025;;1
+63;2979;NonExistentProduct;Home & Garden;Furniture;InvalidPrice;25-01-2025;;1
+63;3027;NonExistentProduct;Books;Academic;InvalidPrice;25-01-2025;;1
+597;3097;Nathaniel;InvalidCategory;Camera;99999.99;25-01-2025;;1
+63;3115;NonExistentProduct;InvalidCategory;Headphones;InvalidPrice;25-01-2025;;1
+855;3200;Robert;InvalidCategory;Mobile;99999.99;25-01-2025;;1
+63;3225;NonExistentProduct;InvalidCategory;Shirt;99513.0;25-01-2025;;1
+63;3262;NonExistentProduct;InvalidCategory;Educational;268.61;25-01-2025;;1
+597;3312;Nathaniel;InvalidCategory;Camera;65235.0;25-01-2025;;1
+63;3378;NonExistentProduct;InvalidCategory;Mobile;0.01;25-01-2025;;1
+580;3493;Kristine;InvalidCategory;Headphones;99999.99;25-01-2025;;1
+63;3497;NonExistentProduct;InvalidCategory;Furniture;431.82;25-01-2025;;1
+162;3655;Martha;InvalidCategory;Fiction;99999.99;25-01-2025;;1
+294;3690;Shannon;InvalidCategory;Gardening Tools;99999.99;25-01-2025;;1
+294;3693;Shannon;InvalidCategory;Gardening Tools;0.01;25-01-2025;;1
+63;3732;NonExistentProduct;Clothing;Shirt;99999.99;25-01-2025;;1
+63;3740;NonExistentProduct;Clothing;Shirt;99513.0;25-01-2025;;1
+63;3797;NonExistentProduct;Home & Garden;Decor;36401.0;25-01-2025;;1
+63;4033;NonExistentProduct;Home & Garden;Furniture;99999.99;25-01-2025;;1
+63;4061;NonExistentProduct;Toys;Educational;99999.99;25-01-2025;;1
+63;4071;NonExistentProduct;InvalidCategory;Headphones;660.05;25-01-2025;;1
+962;4126;Wanda;InvalidCategory;Educational;26861.0;25-01-2025;;1
+63;4255;NonExistentProduct;Clothing;Shirt;InvalidPrice;25-01-2025;;1
+442;4308;Michael;InvalidCategory;Dolls;0.01;25-01-2025;;1
+63;4376;NonExistentProduct;InvalidCategory;Shirt;995.13;25-01-2025;;1
+63;4483;NonExistentProduct;Home & Garden;Gardening Tools;99999.99;25-01-2025;;1
+634;4528;Anthony;InvalidCategory;Academic;99999.99;25-01-2025;;1
+63;4546;NonExistentProduct;Books;Non-fiction;InvalidPrice;25-01-2025;;1
+63;4600;NonExistentProduct;InvalidCategory;Headphones;99999.99;25-01-2025;;1
+63;4602;NonExistentProduct;Electronics;Headphones;87285.0;25-01-2025;;1
+360;4677;Justin;InvalidCategory;Headphones;0.01;25-01-2025;;1
+966;4807;Amy;InvalidCategory;Decor;99999.99;25-01-2025;;1
+580;4931;Kristine;InvalidCategory;Headphones;22882.0;25-01-2025;;1
+63;4981;NonExistentProduct;Electronics;Headphones;22882.0;25-01-2025;;1
